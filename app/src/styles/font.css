@@ -1,8 +1,0 @@
-
- @font-face { font-style : bold; src: url("assets/fonts/PromptMedium.ttf"); font-family : "Prompt"; font-weight : 500;  }
- @font-face { font-style : bold; src: url("assets/fonts/PromptSemiBold.ttf"); font-family : "Prompt"; font-weight : 600;  }
- @font-face { font-style : normal; src: url("assets/fonts/PromptRegular.ttf"); font-family : "Prompt"; font-weight : 400;  }
- @font-face { font-style : bold; src: url("assets/fonts/PromptLight.ttf"); font-family : "Prompt"; font-weight : 300;  }
- @font-face { font-style : bold; src: url("assets/fonts/PromptThin.ttf"); font-family : "Prompt"; font-weight : 100;  }
- @font-face { font-style : bold; src: url("assets/fonts/InterSemiBold.ttf"); font-family : "Inter"; font-weight : 600;  }
- @font-face { font-style : normal; src: url("assets/fonts/InterRegular.ttf"); font-family : "Inter"; font-weight : 400;  }
