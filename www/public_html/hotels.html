@@ -187,7 +187,7 @@
                                 </div>
                                 <div class="theme-color-bg">
                                     <div class="widget-nav">
-                                        <h3 class="title">ZONAS</h3>
+                                        <h3 class="title">ZONES</h3>
                                         <ul class="list">
                                             <li> <a href="#"> Punta Cana </a> </li>
                                             <li> <a href="#"> Bayahibe  </a> </li>
@@ -319,100 +319,30 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-md-9 col-sm-8 pt-50 style-one no-padding">
-                                <div class="listing-box col-lg-12 col-md-6">
-                                    <div class="listing-feature">
-                                        <div class="img">
-                                            <div class="img-slider dots-3 owl-carousel">
-                                                <div class="item bg-img" style="background-image: url(&quot;assets/images/gallery/370x300-1.jpg&quot;); background-size: cover;">
-                                                </div>
-                                                <div class="item bg-img" style="background-image: url(&quot;assets/images/gallery/370x300-2.jpg&quot;); background-size: cover;">
-                                                </div>
-                                                <div class="item bg-img" style="background-image: url(&quot;assets/images/gallery/370x300-3.jpg&quot;); background-size: cover;">
-                                                </div>
-                                            </div>
-                                            <div class="white-color review">                                               
-                                                <span class="rating">
-                                                    <span class="star active"></span>
-                                                    <span class="star active"></span>
-                                                    <span class="star active"></span>
-                                                    <span class="star"></span>
-                                                    <span class="star"></span>
-                                                </span>
-                                                <!-- <span class="fsz-12 fw-600"> 3250 REVEW </span>  -->
-                                            </div>
-                                        </div>
-                                        <ul class="hotel-feature">
-                                            <li>
-                                                <div class="tbl-wrp">
-                                                    <div class="text-middle">
-                                                        <div class="tbl-cell">
-                                                            <img alt="" src="assets/images/icons/icon-15.png"> <span>CAR PARK</span> 
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </li>
-                                            <li>
-                                                <div class="tbl-wrp">
-                                                    <div class="text-middle">
-                                                        <div class="tbl-cell">
-                                                            <img alt="" src="assets/images/icons/icon-16.png"> <span>SWIMMING POOL</span>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </li>
-                                            <li>
-                                                <div class="tbl-wrp">
-                                                    <div class="text-middle">
-                                                        <div class="tbl-cell">
-                                                            <img alt="" src="assets/images/icons/icon-17.png"> <span>RESTAURANT</span> 
-                                                        </div>
-                                                    </div>
-                                                </div> 
-                                            </li>
-                                            <li> 
-                                                <div class="tbl-wrp">
-                                                    <div class="text-middle">
-                                                        <div class="tbl-cell">
-                                                            <img alt="" src="assets/images/icons/icon-18.png"> <span>FITNESS CENTER</span> 
-                                                        </div>
-                                                    </div>
-                                                </div>  
-                                            </li>
-                                        </ul>
-                                    </div>
-                                    <div class="listing-info">
-                                        <div class="detail">
-                                            <h2 class="fsz-20 fw-600 hotel-title">Grand Hotel Amrath Amsterdam</h2>
-                                            <a href="#" class="fsz-11 location-icon" style="margin-bottom: 5px; display: flow-root;"> <i class="fa fa-map-marker" aria-hidden="true"></i> Uvero Alto, Grand Sirenis  </a>
-                                            <div class="">
-                                                El exclusivo Holiday Inn - Lima Airport está ubicado en Lima, justo frente al aeropuerto, y ofrece alojamiento, restaurante, aparcamiento privado gratuito, centro de fitness y bar.
-                                            </div>
-
-                                            <div class="col-md-12" style="padding-left: 0px;margin-top: 10px;">
-                                                <a href="#" class="fsz-11 fw-600 hotel-link-website col-md-12" style="float: right; text-align: end;"> <i class="fa fa-link theme-color hotel-link"></i> HOTEL WEBSITE </a>
-
-                                                <div class="form-group col-md-4" style="float: right;">                                               
-                                                    <button class="theme-btn" data-width="100%" type="submit"> Ver Más </button>                                            
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    
-                                </div>
-                                <div class="col-lg-12 col-md-12">
-                                    <ul class="pagination-1 list-inline">  
-                                        <li class="prv"> <a href="#"> PREV </a> </li>
-                                        <li> <a href="#" class="active"> 01. </a> </li>
-                                        <li> <a href="#"> 02. </a> </li>
-                                        <li> <a href="#"> 03. </a> </li>   
-                                        <li> <a href="#"> 04. </a> </li>
-                                        <li> <a href="#"> 05. </a> </li>   
-                                        <li class="nxt"> <a href="#"> NEXT </a> </li>
-                                    </ul>
-                                </div>
+                            <div class="col-md-9 col-sm-8 pt-50 style-one no-padding" id="gridOfHotelsOrTours">
+                                <!--
+                                    Hotel rendering here
+                                -->
                             </div>
+
+                            <div class="flex flex-row mx-auto justify-center mt-5">
+                                <button type="button" id="prevButton" class="bg-gray-800 text-white rounded-l-md border-r border-gray-100 py-2 hover:bg-red-700 hover:text-white px-3">
+                                  <div class="flex flex-row align-middle">
+                                    <svg class="w-5 mr-2" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+                                      <path fill-rule="evenodd" d="M7.707 14.707a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414l4-4a1 1 0 011.414 1.414L5.414 9H17a1 1 0 110 2H5.414l2.293 2.293a1 1 0 010 1.414z" clip-rule="evenodd"></path>
+                                    </svg>
+                                    <p class="ml-2">Anterior</p>
+                                  </div>
+                                </button>
+                                <button type="button" id="nextButton"  class="bg-gray-800 text-white rounded-r-md py-2 border-l border-gray-200 hover:bg-red-700 hover:text-white px-3">
+                                  <div class="flex flex-row align-middle">
+                                    <span class="mr-2">Siguiente</span>
+                                    <svg class="w-5 ml-2" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+                                      <path fill-rule="evenodd" d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z" clip-rule="evenodd"></path>
+                                    </svg>
+                                  </div>
+                                </button>
+                              </div>
                         </div>
                         <hr class="divider-1">
                     </div>                
@@ -486,6 +416,7 @@
         <script src="assets/js/jquery.cookie.js"></script>        
         <script src="assets/js/theme-config.js"></script>
         <!--<![endif]-->
-
+        
+        <script type="module" src="index.js"></script>
     </body>
 </html>
