@@ -1,0 +1,926 @@
+[
+    {
+        "name": "Bahia Principe Grand Punta Cana",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Punta Cana",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Tropical Princess",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Punta Cana",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Secret Capcana",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Punta Cana",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Grand Palladium Bavaro",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Punta Cana",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Caribe Club Princess",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Punta Cana",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Trotuga Bay",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Punta Cana",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Be Live Grand Punta Cana",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Punta Cana",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Edec Rock at Cap Cana",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Punta Cana",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Hard Rock at Capcana",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Punta Cana",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Royalton Bavaro Beach",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Punta Cana",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Paradisus Palma Real",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Punta Cana",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Ancora Punta Cana",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Punta Cana",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Vista Sol Punta Cana",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Punta Cana",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Hard Rock Hotel & Casino",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Punta Cana",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Hideway at Royalton",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Punta Cana",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Grand Palladium Punta Cana",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Punta Cana",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "El Cortesito Inn",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Punta Cana",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Whala! Urban",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Punta Cana",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "The Royal Suites Turquoise",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Punta Cana",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Riu Republic",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Punta Cana",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Melia Caribe Tropical",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Punta Cana",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "VIK Sand White",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Punta Cana",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Majestic Mirage",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Punta Cana",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Catalonia Bavaro Beach",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Punta Cana",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "TRS Cap Cana",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Punta Cana",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Majestic Elegance",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Punta Cana",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Whala! Bavaro",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Punta Cana",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Punta Cana Princess",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Punta Cana",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Lopesan Costa Dorada",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Punta Cana",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Bahia Principe Fantasia",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Punta Cana",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Barcelo Bavaro Palace",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Punta Cana",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Catalonia Royal Bavaro",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Punta Cana",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Impressive Premium Resorts",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Punta Cana",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Grand Bavaro Princess",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Punta Cana",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Grand Memories Splash",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Punta Cana",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Bahia Principe Luxury Emerald",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Punta Cana",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Punta Palmera Cap Cana",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Punta Cana",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Iberostart Grand Bavaro",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Punta Cana",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Now Larimar Punta Cana",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Punta Cana",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "The MT Hotel",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Punta Cana",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Bahia Principe Grand Turquesa",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Punta Cana",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Sanctury Cap Cana",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Punta Cana",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "The Serenade Punta Cana",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Punta Cana",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Grand Palladium Palace",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Punta Cana",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Royalton Punta Cana",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Punta Cana",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Riu Naiboa",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Punta Cana",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Bahia Principe Grand Bavaro",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Punta Cana",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Riu Bambú Punta Cana",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Punta Cana",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Fishing Lodge Capcana",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Punta Cana",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Ocean Blue and Sands",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Punta Cana",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Four Point By Sheraton",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Punta Cana",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Hyatt Ziva Capcana",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Punta Cana",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Ifa Villas Bavaro",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Punta Cana",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Bahia Principe Luxury Ambar",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Punta Cana",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Riu Palace Bavaro",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Punta Cana",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Occidental Caribe Punta Cana",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Punta Cana",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Occidental Grand Punta Cana",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Punta Cana",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Sensatori Resort Punta Cana",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Punta Cana",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "The Reserve at Paradisus Palma Real",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Punta Cana",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "NH Punta Cana",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Punta Cana",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Whala! Bayahibe",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Bayahibe",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Alkquimia Hotel",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Bayahibe",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Be Live Colletion Canoa",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Bayahibe",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Viva Whyndam Dominicus Palace",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Bayahibe",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Catalonia Royal La Romana",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Bayahibe",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Luxury Bahia Principe Bouganville",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Bayahibe",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Catalonia Grand Dominicus",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Bayahibe",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Hilton La Romana",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Bayahibe",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Dreams La Romana",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Bayahibe",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Viva Whynham Dominicus Beach",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Bayahibe",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Iberostar Hacienda Dominicus",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Bayahibe",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Cadaquez Caribe",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Bayahibe",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Dreams Punta Cana",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Ubero Alto",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Grand Sirenis",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Ubero Alto",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Excellence el Carmen",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Ubero Alto",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Breathless - Adults Only",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Ubero Alto",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Ocean El Faro",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Ubero Alto",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Nickelodeon",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Ubero Alto",
+        "price": 80,
+        "type": "hotel"
+    },
+    {
+        "name": "Excellence Secrets",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Ubero Alto",
+        "type": "hotel"
+    },
+    {
+        "name": "Chic By Royalton",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Ubero Alto",
+        "type": "hotel"
+    },
+    {
+        "name": "Now Onyx",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "zone": "Ubero Alto",
+        "type": "hotel"
+    },
+    {
+        "name": "Altos de Chavón",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "ATV Macau Tours",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Baseball Tours",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Bavaro Adventure Park",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Bay of the Eagles Tour",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Buceo enla Isla Catalina",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Buggy Tour Punta Cana",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Cabalgata a Caballos",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Canopy Adventure Zipline",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Catalina Island Tour",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Cave of Wonders",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Cigar Factory Tours",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Coco Bongo Punta Cana",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Coutry Safari Punta Cana",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Dolphin Explorer",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Dolphin Island Tour from Punta Cana",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Dominican Ballons",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Dominican Peak Tour",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Dune Buggy and Macao Beach",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "El Limon Waterfall Tour",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Escape Park Hoyo Azul from Punta Cana",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Fun Fun Caves",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Gold night club",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Hacienda Park",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Helicopter Tour",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Higuey City Tour",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Humpback Whale Tour In Samaná",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Imagine Punta Cana",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Isla Saonaen Helicoptero",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Juanillo VIP",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Jeep Safari Punta Cana",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Hacienda Park",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Kitesurfing Lessons",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Los Haitises + Cariño Hondo",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Los Haitises National Park Tour",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Lulu Waterfall Tour",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Manati Park",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Monkey and Presentation Safari Tour from Punta Cana",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Night Life VIP Tours",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Ocean Spa Dr Fish",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Hacienda Park",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Ocean Spa Dr Fish",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Parasailing Punta Cana",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Party Boat Cruise from Punta Cana",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Polaris Adventure",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Party Boat Cruise from Punta Cana",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Private Tour to Puerto Plata City Tour",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Punta Cana Party Bus",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Punta Cana Pirate Ship",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Rafting in Jarabacoa",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Reef Explorer Punta Cana",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Round Mountain Tours",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Sajoma Tours",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Samana Tours",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Santo Domingo City Tour",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Santo Domingo Night Tour",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Saona Premium",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Scuba Doo Punta Cana",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Seaquarium Punta Cana",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Segway Eco Tours",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Slingshots Adventure",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Swimming with",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Slingshots Adventure",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Swimming with shark and sting Rays Fishing",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Tour in Buggies by Cumayasa",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Tour Isla Saona",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Tour of La Romana",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Tour to Bayaguana",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Tour to Lake Enriquillo",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Tour to the Coffee Route",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Vegan Carnival Tour 2023",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    },
+    {
+        "name": "Wildlife Park Punta Cana",
+        "image": "./img/properties/image1(tit)_feature.png",
+        "type": "tour"
+    }
+]

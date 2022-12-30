@@ -1,8 +1,11 @@
 // Resource reference: https://github.com/desoga10/js-pagination/blob/master/app.js
-import data from "../api/data.json" assert { type: "json" };
+import data from "../oldApi/data.json" assert { type: "json" };
 import State from "./State.js";
+let container = document.querySelector("#gridOfTours");
+if (document.querySelector("#gridOfHotelsOrTours") !== null) {
+    container = document.querySelector("#gridOfHotelsOrTours");
+}
 
-const container = document.querySelector("#gridOfHotelsOrTours");
 let currentPage = 1;
 let pageSize = 12;
 const prevButton = document.querySelector("#prevButton");
@@ -41,16 +44,26 @@ const renderProducts = (page = 1) => {
 
     // initializing the drawing
     container.innerHTML = "";
-    data.filter((row, index) => {
+
+    data.filter(el => {
+        if (window.location.href.includes('tours')) {
+            if (el.type === 'tour') {
+                return el    
+            }
+        } else {
+            if (el.type === 'hotel') {
+                return el    
+            }
+        }
+    }).filter((row, index) => {
         let start = (currentPage - 1) * pageSize;
         let end = currentPage * pageSize;
         if (index >= start && index < end) return true;
     }).forEach((state) => {
         const newState = new State(
-            // state.idState,
             state.name,
-            // state.price,
-            state.image
+            state.image,
+            state.type
         );
         State.statesCounter++;
         container.appendChild(newState.render());
