@@ -8,7 +8,6 @@
         <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="description" content="agency, ecommerce">
-        <meta name="author" content="Md. Siful Islam, Jtheme">
 
         <title>Domyfun Travel</title>
 

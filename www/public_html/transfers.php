@@ -8,9 +8,8 @@
         <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="description" content="agency, ecommerce">
-        <meta name="author" content="Md. Siful Islam, Jtheme">
 
-        <title>Vetrov</title>
+        <title>Do my fun travel</title>
 
         <!-- Favicon -->
         <link rel="apple-touch-icon-precomposed" href="assets/ico/apple-touch-icon-144-precomposed.png">

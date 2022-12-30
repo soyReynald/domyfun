@@ -24,7 +24,7 @@ Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
 
 Route::get('/hotels', [HotelController::class, 'index']);
 
-Route::post('/tours', [HotelController::class, 'create']);
+Route::post('/tours', [TourController::class, 'create']);
 Route::post('/hotels', [HotelController::class, 'create']);
 
 Route::post('/gallery', [GalleryController::class, 'create']);

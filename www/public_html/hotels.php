@@ -1,3 +1,4 @@
+<?php require_once('main_controller.php'); ?>
 <!DOCTYPE html>
 <!--[if IE 7]><html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
 <!--[if IE 8]><html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
@@ -8,9 +9,8 @@
         <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="description" content="agency, ecommerce">
-        <meta name="author" content="Md. Siful Islam, Jtheme">
 
-        <title>Vetrov</title>
+        <title>Do my fun travel</title>
 
         <!-- Favicon -->
         <link rel="apple-touch-icon-precomposed" href="assets/ico/apple-touch-icon-144-precomposed.png">
@@ -232,6 +232,78 @@
                                 <!--
                                     Hotel rendering here
                                 -->
+                                <?php
+                                    foreach ($_hotels as $row) {
+                                ?>
+                                    <a href="#" class="group">
+                                        <div class="listing-box col-lg-12 col-md-6">
+                                            <div class="listing-feature">
+                                                <div class="img">
+                                                    <div class="img-slider dots-3 owl-carousel">
+                                                        <div class="item bg-img" style='background-image: url("./API/public/<?= $row['feat_image'] ?>"); background-size: cover;'>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <ul class="hotel-feature">
+                                                    <li>
+                                                        <div class="tbl-wrp">
+                                                            <div class="text-middle">
+                                                                <div class="tbl-cell">
+                                                                    <img alt="" src="assets/images/icons/icon-15.png"> <span>CAR PARK</span> 
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </li>
+                                                    <li>
+                                                        <div class="tbl-wrp">
+                                                            <div class="text-middle">
+                                                                <div class="tbl-cell">
+                                                                    <img alt="" src="assets/images/icons/icon-16.png"> <span>SWIMMING POOL</span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </li>
+                                                    <li>
+                                                        <div class="tbl-wrp">
+                                                            <div class="text-middle">
+                                                                <div class="tbl-cell">
+                                                                    <img alt="" src="assets/images/icons/icon-17.png"> <span>RESTAURANT</span> 
+                                                                </div>
+                                                            </div>
+                                                        </div> 
+                                                    </li>
+                                                    <li> 
+                                                        <div class="tbl-wrp">
+                                                            <div class="text-middle">
+                                                                <div class="tbl-cell">
+                                                                    <img alt="" src="assets/images/icons/icon-18.png"> <span>FITNESS CENTER</span> 
+                                                                </div>
+                                                            </div>
+                                                        </div>  
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                            <div class="listing-info">
+                                                <div class="detail">
+                                                    <h2 class="fsz-20 fw-600 hotel-title"><?= $row['title'] ?></h2>
+                                                    <div class="">
+                                                     <?php echo substr($row['description'], 0, 220)."..."; ?>
+                                                    </div>
+
+                                                    <div class="col-md-12" style="padding-left: 0px;margin-top: 10px;">
+                                                        <a href="#" class="fsz-11 fw-600 hotel-link-website col-md-12" style="float: right; text-align: end;"> <i class="fa fa-link theme-color hotel-link"></i> HOTEL WEBSITE </a>
+
+                                                        <div class="form-group col-md-4" style="float: right;">                                               
+                                                            <button class="theme-btn" data-width="100%" type="submit"> Ver Más </button>                                            
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </a>
+                                <?php
+                                    }
+                                ?>
                             </div>
 
                             <div class="flex flex-row mx-auto justify-center mt-5" id="buttons-container">
@@ -318,6 +390,6 @@
         <script src="assets/js/theme-config.js"></script>
         <!--<![endif]-->
         
-        <script type="module" src="index.js"></script>
+        <!-- <script type="module" src="index.js"></script> -->
     </body>
 </html>

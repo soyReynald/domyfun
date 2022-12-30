@@ -19,7 +19,6 @@ class CreateToursTable extends Migration
             $table->text('feat_image');
             $table->text('description')->nullable();
             $table->integer('price');
-            $table->integer('zone');
             $table->timestamps();
         });
     }

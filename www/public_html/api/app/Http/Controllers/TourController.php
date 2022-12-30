@@ -22,9 +22,28 @@ class TourController extends Controller
      *
      * @return \Illuminate\Http\Response
      */
-    public function create()
+    public function create(Request $request)
     {
         //
+        $tour = new tour();
+        $tour->title = $request->input('title');
+        $tour->description = $request->input('description');
+
+        $image = $request->file('feat_image');
+        $tour->price = $request->input('price');
+        
+        if ($request->hasFile('feat_image')) {
+            $newName = rand(). '.' .$image->getClientOriginalExtension();
+            $directory = '/uploads/images/tours/';
+            $image->move(public_path().$directory, $newName);
+            $path = 'uploads/images/tours/' . $newName;
+            $tour->feat_image = $path;
+
+            $tour->save();
+            return json_encode(['message'=> 'Tour created successfully', 'status'=> 200]);
+        } else {
+            return json_encode(['message'=> 'Tour not created', 'status'=> 400]);
+        }
     }
 
     /**
